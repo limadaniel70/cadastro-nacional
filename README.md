@@ -6,3 +6,13 @@ REQUISITOS DO PROJETO:
 - É necessário manter o histórico desta responsabilidade/propriedade.
 - O veiculo possui uma categoria; e
 - O veículo é sempre de uma marca e de um modelo e possui ano de fabricação.
+
+---
+
+Modelo conceitual:
+
+![Modelo Conceitual](Modelo Conceitual.jpg)
+
+Modelo Lógico:
+
+![Modelo Lógico](Modelo Logico.jpg)
