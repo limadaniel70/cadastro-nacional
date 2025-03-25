@@ -9,10 +9,10 @@ REQUISITOS DO PROJETO:
 
 ---
 
-Modelo conceitual:
+Modelo Conceitual:
 
-![Modelo Conceitual](Modelo Conceitual.jpg)
+![Modelo Conceitual](./Modelo%20Conceitual.jpg)
 
 Modelo Lógico:
 
-![Modelo Lógico](Modelo Logico.jpg)
+![Modelo Lógico](./Modelo%20Lógico.jpg)
