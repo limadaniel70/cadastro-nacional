@@ -1,9 +1,8 @@
-cadastro nacional de veículos: você apresentou um modelo de dados para o cadastro nacional de veículos. Sabe-se que:
+# ATIVIDADE 1: MODELAGEM DE UM BANCO DE DADOS PARA UM CADASTRO NACIONAL DE VEICULOS
 
-o veiculo possui sempre uma placa única em todo o pais;
-
-o veiculo possui sempre um responsável legal por ele. É necessário manter o histórico desta responsabilidade (propriedade);
-
-o veiculo pertence sempre a uma categoria;
-
-o veiculo é sempre de uma marca e de um modelo e possui ano de fabricação.
+REQUISITOS DO PROJETO:
+- O veículo possui sempre uma placa única em todo o país;
+- O veículo possui sempre um responsável legal por ele;
+- É necessário manter o histórico desta responsabilidade/propriedade.
+- O veiculo possui uma categoria; e
+- O veículo é sempre de uma marca e de um modelo e possui ano de fabricação.
